@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Muhammad Umar as @QuantomCoder
+- 👀 I’m interested in Backend devolpment 
+- 🌱 I’m currently learning DataBases 
+- 💞️ I’m looking to collaborate on TS 
+- 📫 How to reach me? This is my email "umeir366@gmail.com" or phone number "+923176861663" 
+- ⚡ Fun fact: I am Quantom coder not a ordinary coder 
